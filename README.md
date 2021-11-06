@@ -11,7 +11,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/aashish_tathod" target="blank"><img align="center" src="https://www.svgrepo.com/svg/25931/twitter-logo-shape" alt="Twitter" height="30" width="40" /></a> -->
+ <a href="https://twitter.com/aashish_tathod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a> 
 <a www.linkedin.com/in/aashishkumar-tathod" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://instagram.com/_patil_aashish_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 
