@@ -1,8 +1,8 @@
 
 ### Hi there, I'm Aashishkumar Tathod <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Full-Stack Android Developer ! 
-- 🌱 I’m currently learning Firebase.
+## I'm a Full-Stack Android Developer (Native) ! 
+- 🌱 I’m currently learning Flutter.
 - 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Learn to build big projects using more tools and contributing to open source projects.
 
