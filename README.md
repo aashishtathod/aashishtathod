@@ -4,7 +4,7 @@
 ## I'm a Full-Stack Android Developer (Native) ! 
 - 🌱 I’m currently learning Ktor/NodeJS.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Learn to build big projects using more tools and contributing to open source projects.
+- 🥅 2022 Goals: Learn to build big projects using more tools and contributing to open source projects.
 
 
 
